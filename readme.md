@@ -1,0 +1,3 @@
+在calibre中设置翻译引擎
+运行server.py
+即可正常翻译
